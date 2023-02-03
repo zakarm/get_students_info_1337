@@ -8,7 +8,7 @@ This script will help you find the corrector!
 3. `python3 -m pip install colorama`
 
 ## How to use ?
-1 : `python3 main.py`
+1. `python3 main.py`
 
 ## Screenshots
 <img src="" width="800" />
