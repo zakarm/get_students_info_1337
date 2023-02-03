@@ -11,9 +11,7 @@ This script will help you find the corrector!
 1. `python3 main.py`
 
 ## Screenshots
-<center>
-    <img src="https://github.com/zakarm/get_42students_info/blob/master/imgs/img1.png" width="800" />
-</center>
+<img src="https://github.com/zakarm/get_42students_info/blob/master/imgs/img1.png" width="800" />
 <img src="https://github.com/zakarm/get_42students_info/blob/master/imgs/img2.png" width="800" />
 
 
