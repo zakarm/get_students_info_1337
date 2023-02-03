@@ -3,9 +3,9 @@ Simple python script to get students info like [Mobile Phone, Mail, Full Name, I
 This script will help you find the corrector!
 
 ## How to install ?
-1 : Clone This Repo
-2 : `cd get_42students_info`
-3 : `python3 -m pip install colorama`
+<p> 1 : Clone This Repo </p>
+<p> 2 : `cd get_42students_info` </p>
+<p> 3 : `python3 -m pip install colorama` </p>
 
 ## How to use ?
 1 : `python3 main.py`
