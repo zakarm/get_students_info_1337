@@ -1,0 +1,36 @@
+# extended LDIF
+#
+# LDAPv3
+# base <dc=1337,dc=ma> (default) with scope subtree
+# filter: uid=zmrabet
+# requesting: ALL
+#
+
+# zmrabet, candidate, people, 1337.ma
+dn: uid=zmrabet,ou=candidate,ou=people,dc=1337,dc=ma
+objectClass: posixAccount
+objectClass: shadowAccount
+objectClass: apple-user
+objectClass: ftUser
+objectClass: inetOrgPerson
+objectClass: ftExtended
+cn: Zakariae Mrabet
+givenName: Zakariae
+loginShell: /bin/zsh
+mobile: +212766746532
+sn: Mrabet
+uid: zmrabet
+alias: zmrabet@student.1337.ma
+uidNumber: 102470
+gidNumber: 5000
+homeDirectory: /Users/zmrabet
+status: iscsi-voluntary=no,iscsi-warn=no,iscsi-portal=10.23.1.1,iscsi-iqn=iqn.
+ 2016-08.fr.42.homedirs:zmrabet,home=iscsi,iscsi-ws=https://iscsi.1337.ma
+mail: zakariaemrabet48@gmail.com
+
+# search result
+search: 4
+result: 0 Success
+
+# numResponses: 2
+# numEntries: 1
