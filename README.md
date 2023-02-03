@@ -12,7 +12,7 @@ This script will help you find the corrector!
 
 ## Screenshots
 <img src="https://github.com/zakarm/get_42students_info/blob/master/imgs/img1.png" width="800" />
-<img src="" width="800" />
+<img src="https://github.com/zakarm/get_42students_info/blob/master/imgs/img2.png" width="800" />
 
 ## Note : 
 
